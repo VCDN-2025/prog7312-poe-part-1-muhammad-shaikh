@@ -150,7 +150,7 @@ MunicipalServicesApp/
 
 YouTube demo: https://youtu.be/KDfixBBLBog
 
-GitHub repository: <REPO_URL>
+GitHub repository: https://github.com/VCDN-2025/prog7312-poe-part-1-muhammad-shaikh.git
 
 **Troubleshooting**
 
